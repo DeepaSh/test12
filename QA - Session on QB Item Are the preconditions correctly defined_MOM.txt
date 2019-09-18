@@ -1,0 +1,3 @@
+1. Precondition is not correctly defined. (wrong Links)-- mapped to the invalid test case.
+2. In reference we can put 2 test steps Say Step#1, Step #2: TC ID []......
+
